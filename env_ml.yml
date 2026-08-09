@@ -1,0 +1,14 @@
+name: ml_env
+channels:
+  - defaults
+dependencies:
+  - python=3.13
+  - matplotlib
+  - numpy
+  - scipy
+  - scikit-learn
+  - seaborn
+  - tensorflow
+  - pandas
+  - ipykernel 
+  - pip
